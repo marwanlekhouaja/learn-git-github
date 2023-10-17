@@ -1,3 +1,9 @@
+*{
+    margin: 0;
+}
+body{
+    background-color: black;
+}
 .loader {
     width: 112px;
     height: 112px;
@@ -11,7 +17,6 @@
     position: absolute;
     display: block;
   }
-  
   .box1 {
     width: 112px;
     height: 48px;
